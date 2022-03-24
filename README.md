@@ -1,1 +1,1 @@
-[Link to CV](https://ycarpenter.github.io/rsschool-cv)
+[Link to CV](https://ycarpenter.github.io/rsschool-cv/)
